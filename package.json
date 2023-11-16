@@ -1,0 +1,22 @@
+{
+  "name": "avaj.-hw-challenge-12-employee-tracker",
+  "version": "1.0.0",
+  "description": "Employee Tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afj511/AvaJ.-HW-Challenge-12-Employee-Tracker.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "Ava Jamora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afj511/AvaJ.-HW-Challenge-12-Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/afj511/AvaJ.-HW-Challenge-12-Employee-Tracker#readme"
+}
